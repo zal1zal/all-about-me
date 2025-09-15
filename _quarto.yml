@@ -9,6 +9,15 @@ book:
   chapters:
     - index.qmd
     - intro.qmd
+    - My_Song_for_You/index.qmd
+    - My_Stories_for_You/index.qmd
+    - My_Shape/index/index.qmd
+    - My_Personal_Review/index.qmd
+    - My_Concepts/index.qmd
+    - My Opinions/index.qmd
+    - My_Innovations/index.qmd
+    - My_Knowlegde/index.qmd
+    - My_Professional_Review/index.qmd
     - summary.qmd
     - references.qmd
 
