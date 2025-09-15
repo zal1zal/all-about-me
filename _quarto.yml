@@ -1,0 +1,26 @@
+project:
+  type: book
+  output-dir: docs
+
+book:
+  title: "Portfolio Asesmen II-2100 KIPP"
+  author: "131902360 Armein Z R Langi"
+  date: "9/15/2025"
+  chapters:
+    - index.qmd
+    - intro.qmd
+    - summary.qmd
+    - references.qmd
+
+bibliography: references.bib
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+  pdf:
+    documentclass: scrreprt
+
+
+
