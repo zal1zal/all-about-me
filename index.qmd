@@ -9,9 +9,9 @@ My Song for You
 
 My Stories for You
 
-My Shape
+My Shapes
 
-My Personal Review
+My Personal Reviews
 
 My Concepts
 
@@ -19,6 +19,6 @@ My Opinions
 
 My Innovations
 
-My Knowlegde
+My Knowledge
 
-My Professional Review
+My Professional Reviews

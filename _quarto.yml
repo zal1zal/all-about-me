@@ -3,7 +3,8 @@ project:
   output-dir: docs
 
 book:
-  title: "Portfolio Asesmen II-2100 KIPP"
+  title: "Armein Z. R. Langi"
+  subtitle: "Portfolio Asesmen II-2100 KIPP"
   author: "131902360 Armein Z R Langi"
   date: "9/15/2025"
   chapters:
@@ -11,13 +12,13 @@ book:
     - intro.qmd
     - My_Song_for_You/index.qmd
     - My_Stories_for_You/index.qmd
-    - My_Shape/index/index.qmd
-    - My_Personal_Review/index.qmd
+    - My_Shapes/index.qmd
+    - My_Personal_Reviews/index.qmd
     - My_Concepts/index.qmd
-    - My Opinions/index.qmd
+    - My_Opinions/index.qmd
     - My_Innovations/index.qmd
-    - My_Knowlegde/index.qmd
-    - My_Professional_Review/index.qmd
+    - My_Knowledge/index.qmd
+    - My_Professional_Reviews/index.qmd
     - summary.qmd
     - references.qmd
 
