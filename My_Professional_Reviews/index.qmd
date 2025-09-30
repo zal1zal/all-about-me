@@ -1,1 +1,5 @@
 # My Professional Reviews
+Untuk melkukan review, seperti pada [pendekatan AI](../My_Personal_Reviews/Doc.5.Mengevaluasi-Esai-Berdasarkan-Rubrik.pdf), kita membutuhkan rubrik
+- Rubrik [Kisah](Dok.4.a.Rubrik_Kisah.pdf)
+- Rubrik [Konsep](Dok.4.b.Rubrik_Konsep.pdf)
+- Rubrik [Opini](Dok.4.c.Rubrik_Opini.pdf)
