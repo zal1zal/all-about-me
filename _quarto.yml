@@ -9,7 +9,7 @@ book:
   date: "9/15/2025"
   chapters:
     - index.qmd
-    - intro.qmd
+    - All_About_me/index.qmd
     - My_Song_for_You/index.qmd
     - My_Stories_for_You/index.qmd
     - My_Shapes/index.qmd
