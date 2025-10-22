@@ -1,12 +1,49 @@
 # UTS-3 My Stories for You
 
-A story about my oldest daughter [Gaun Pemngantin Gladys](<https://azrl.wordpress.com/2020/07/18/gaun-pengantin-gladys/#comment-28004>)
+---
+title: "My Story For You"
+author: "Faizal Ali"
+format: 
+  html:
+    grid:
+      body-width: 800px
+    css: |
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        line-height: 1.6;
+      }
+      h1 {
+        color: #005a9c;
+        border-bottom: 2px solid #eee;
+        padding-bottom: 10px;
+      }
+      p {
+        text-align: justify;
+      }
+      strong {
+        color: #00487c;
+      }
+      blockquote {
+        border-left: 4px solid #005a9c;
+        padding-left: 15px;
+        margin-left: 0;
+        margin-top: 25px;
+        font-style: italic;
+        color: #555;
+        font-size: 1.1em;
+      }
+---
 
-A message to my daughter [The Child Who Learned to Walk at the Disneyland](<https://azrl.wordpress.com/2021/10/06/the-child-who-learned-to-walk-at-the-disneyland/>)
+Halo, saya **Faizal Ali**, atau biasa dipanggil Faiz. Saat ini saya sedang menempuh pendidikan sebagai mahasiswa di **Sistem dan Teknologi Informasi ITB**. Tapi, jujur saja, ini bukanlah rencana A saya dari awal. Cerita saya mungkin mirip dengan banyak orang lain: tentang bagaimana sebuah rencana yang gagal justru menuntun kita ke jalan yang lebih baik, meskipun awalnya tidak terasa begitu.
 
-A story for my students [Fly Eagle Fly](<https://azrl.wordpress.com/2008/04/21/fly-my-eagle-fly/>)
+Semua bermula di hari pengumuman SNBT. Target saya saat itu jelas sekali, **Ilmu Komputer UI**. Saya sudah membayangkan banyak hal yang akan saya lakukan di sana. Saat saya buka pengumumannya, saya ditolak. Rasanya berat sekali. Saya tidak akan bilang saya baik-baik saja, karena sejujurnya saya *sangat demotivated*. Apalagi saat melihat teman-teman lain satu per satu mengunggah kabar gembira mereka. Tentu saya ikut senang, tapi di dalam hati saya mulai *takut*. Takut kalau semua usaha saya selama ini sia-sia.
 
-A (true) story for my teachers [Sang Mahaguru, Sang Mahaputera](<https://azrl.wordpress.com/2012/11/28/perginya-sang-mahaputera-dan-mahaguru-berkemeja-putih/)
+Mau tidak mau, saya tahu saya harus lanjut berjuang. Meratapi penolakan itu tidak akan mengubah apa-apa. Saya kumpulkan lagi sisa-sisa semangat saya, saya fokus untuk ujian mandiri. Saya mendaftar SM ITB untuk **STEI-K** dan UTUL UGM untuk **Statistika**.
 
-Teasing story
-{{< video https://www.youtube.com/watch?v=Dg_4PbBlBf4 >}}
+Lalu kabar baik pertama datang, saya diterima di **STEI-K ITB**. Rasanya *lega sekali*, seolah beban berat di pundak saya terangkat. Ketakutan saya mulai hilang. Beberapa minggu setelahnya, kabar baik kedua datang, saya juga diterima di **Statistika UGM**. Rasanya sedikit sureal. Dari yang tadinya takut tidak dapat apa-apa, saya justru diberi dua pilihan yang sama-sama hebat.
+
+Di titik inilah saya merasa terbentuk. Saya tidak lagi memilih karena gengsi atau ikut-ikutan. Saya benar-benar duduk dan memikirkannya. Saya membandingkan kurikulum STEI-K, melihat jurusan yang ditawarkan, dan saya merasa cocok. Saya merasa di sinilah saya bisa lebih bertumbuh. Statistika UGM tentu pilihan yang sangat baik, tapi hati saya lebih mantap ke STEI-K.
+
+Sekarang, melihat ke belakang, saya jadi sadar. Penolakan dari Ilmu Komputer UI itu bukan akhir dari segalanya. Itu hanya sebuah benturan yang perlu saya alami. Saya terbentur dari apa yang saya kira saya inginkan, agar saya bisa terbentuk di tempat yang ternyata saya butuhkan.
+
+> Kalau ada teman-teman yang sedang di posisi yang sama, saya hanya ingin bilang, penolakan itu rasanya memang sakit, tapi itu *bukan vonis gagal*. Saya percaya bahwa itu hanyalah cara Tuhan untuk mengarahkan kita ke jalan yang lebih tepat.
