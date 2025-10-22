@@ -3,10 +3,10 @@ project:
   output-dir: docs
 
 book:
-  title: "Armein Z. R. Langi"
+  title: "Faizal Ali"
   subtitle: "Portfolio Asesmen II-2100 KIPP"
-  author: "131902360 Armein Z R Langi"
-  date: "9/15/2025"
+  author: "18224007 Faizal Ali"
+  date: "9/19/2025"
   chapters:
     - index.qmd
     - All_About_me/index.qmd
