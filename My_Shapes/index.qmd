@@ -1,215 +1,156 @@
 # UTS-4 My SHAPE (Spiritual Gifts, Heart, Abilities, Personality, Experiences)
 
-> **Tujuan:** Merangkum rancangan diri (charter) agar saya melayani, berkarya, dan memimpin secara paling selaras dengan karunia dan pengalaman hidup saya. Dapat langsung ditempel ke halaman **UTS-4 — My SHAPE** dan dipakai sebagai acuan aksi 90 hari.
+---
+title: "My Shapes"
+author: "Faizal Ali"
+format: 
+  html:
+    grid:
+      body-width: 850px
+    css: |
+      /* General Styling */
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        line-height: 1.7;
+        background-color: #f8f9fa;
+        color: #343a40;
+      }
 
-Sumber [VIA assessment](StrengthsProfile-Armein-Langi.pdf)
+      /* Headings for Structure */
+      h1 {
+        color: #004085;
+        text-align: center;
+        border-bottom: 2px solid #b8daff;
+        padding-bottom: 15px;
+        margin-bottom: 30px;
+      }
+      h2 {
+        color: #0056b3;
+        border-bottom: 1px solid #dee2e6;
+        padding-bottom: 10px;
+        margin-top: 45px;
+        margin-bottom: 20px;
+      }
+      h3 {
+        color: #1d3557;
+        margin-top: 24px;
+      }
+      
+      /* Definition Lists for Key-Value Data */
+      dl dt {
+        font-weight: bold;
+        color: #004085;
+        margin-top: 15px;
+      }
+      dl dd {
+        margin-left: 0;
+        margin-bottom: 10px;
+        padding-left: 1.5em;
+        border-left: 3px solid #e9ecef;
+      }
+
+      /* Blockquote for Narration */
+      blockquote {
+        border-left: 4px solid #0056b3;
+        padding: 15px 20px;
+        margin: 25px 0;
+        font-style: italic;
+        color: #495057;
+        background-color: #f1f3f5;
+        border-radius: 5px;
+      }
+      blockquote p {
+        margin: 0;
+      }
+
+      /* Strong Tag for Emphasis */
+      strong {
+        color: #004085;
+      }
 ---
 
-## 0) Ringkasan 1 Halaman
+## Ringkasan
+<dl>
+    <dt>Peran Inti:</dt>
+    <dd>Analis Data (Data Analyst) / Saintis Data Junior yang berlatar belakang pemikiran sistem (STI).</dd>
 
-**Peran Inti:** Profesor & Elder — perancang ekosistem belajar-bernilai, pembimbing, dan pemimpin pelayanan komunitas.
-**Misi:** Mengangkat kualitas hidup melalui *smart engineering* dan *value-oriented education*, khususnya bagi lansia/keluarga/komunitas (GRACE), serta pelayanan gerejawi yang menumbuhkan kasih dan pengharapan.
-**Kekuatan Utama:** mengkonsep sistem utuh, menulis & mengajar, membangun jejaring, merancang rubrik/alat evaluasi, menggerakkan proyek lintas-disiplin.
-**Dampak yang Dituju:** karya, kurikulum, dan pelayanan yang menumbuhkan karakter, keterampilan, serta kesejahteraan berkeadilan.
+    <dt>Misi:</dt>
+    <dd>Mengintegrasikan analisis data kuantitatif (Data Science) dengan pemahaman proses dan sistem (STI) untuk mengekstrak wawasan yang relevan dan merancang solusi berbasis data yang memecahkan masalah bisnis/organisasi.</dd>
 
-**Peta SHAPE (singkat):**
+    <dt>Kekuatan Utama:</dt>
+    <dd>Pemikiran analitis-kuantitatif, Data storytelling, Pemrograman data (Python/SQL), Pemodelan dasar, Riset mandiri, Pemahaman alur sistem.</dd>
 
-* **S — Spiritual Gifts:** Teaching, Shepherding/Pastoring, Leadership, Wisdom/Discernment, Exhortation/Encouragement, Administration.
-* **H — Heart (Minat & Cinta Pelayanan):** pendidikan berorientasi nilai; kesejahteraan lansia & keluarga (GRACE); pembinaan iman; menulis kisah/novel/lirik; rekayasa cerdas & AI untuk kebaikan bersama; mentorship mahasiswa-dosen; penguatan jemaat.
-* **A — Abilities (Kemampuan):** perancangan sistem (PSKVE/TISE), kurikulum & rubrik, riset & publikasi, menulis multi-format (Quarto/LaTeX), pemrograman (Python/R/Prolog/Modelica), komunikasi publik, memimpin kolaborasi.
-* **P — Personality (Gaya Kepribadian Kerja):** strategis & reflektif, berorientasi visi & nilai, analitis-sistemik, kolaboratif, tenang dalam krisis, suka membangun standar & alat.
-* **E — Experiences (Pengalaman Kunci):** dosen & peneliti lintas proyek (GRACE, Smart Engineering, pendidikan), Elder & pengorganisasi jemaat, penulis kreatif, arsitek sistem pengetahuan (Obsidian/GitHub/Quarto), penggerak sarasehan & penggalangan dukungan.
+    <dt>Dampak yang Dituju:</dt>
+    <dd>Keputusan yang didukung data (data-driven decisions), Wawasan (insights) yang dapat ditindaklanjuti, Kontribusi pada tim sebagai penjembatan antara data teknis dan kebutuhan sistem/manusia.</dd>
+</dl>
 
----
+### Peta SHAPE (singkat):
+* **S — Panggilan Inti:** Analisis & Sintesis, Keingintahuan (Curiosity), Integritas (Data), Pengenalan Pola (Pattern Recognition).
+* **H — Minat & Gairah:** Data Science, Machine Learning, Visualisasi Data, SQL, Storytelling with Data, dan penerapan analisis data untuk memahami proses bisnis dan sistem informasi (konteks STI).
+* **A — Abilities (Kemampuan):** Analisis data kuantitatif, Pemrograman Data (Python: Pandas, Scikit-learn), Database (SQL), Visualisasi Data, Riset & Pembelajaran Mandiri, Dasar-dasar Analisis Sistem & Proses (dari STI).
+* **P — Personality (Gaya Kerja):** Metodis & terstruktur, analitis & detail, mandiri & proaktif (self-driven), reflektif, pragmatis.
+* **E — Experiences (Pengalaman Pembentuk):** Proyek akademis di STI (Basis Data, Analisis Proses); Pengalaman "benturan": menemukan passion pada Data Science (lewat kursus online/lomba); Pengalaman "terbentuk": Proyek di mana berhasil menggabungkan data science dalam konteks masalah sistem informasi.
 
-## 1) S — Spiritual Gifts (Karunia Rohani)
+## 1) S — Panggilan Inti (Core Calling)
+* **Analisis & Sintesis:** Kemampuan alami untuk mengurai masalah besar menjadi komponen data yang logis dan menyatukannya kembali sebagai sebuah wawasan (insight).
+* **Keingintahuan (Curiosity):** Dorongan kuat untuk terus bertanya "mengapa" pada data ("Why does this pattern exist?"). Ini adalah bahan bakar utama untuk riset dan eksplorasi data.
+* **Integritas:** Kebutuhan untuk jujur pada data. Menyajikan temuan apa adanya, mengakui keterbatasan, dan memastikan analisis dilakukan dengan metodologi yang benar.
+* **Pengenalan Pola:** Kepekaan alami untuk melihat pola, tren, atau anomali dalam kumpulan data yang kompleks.
 
-* **Teaching & Wisdom/Discernment:** mengubah konsep kompleks menjadi peta belajar, rubrik, dan alat evaluasi yang memampukan.
-* **Shepherding/Pastoring & Exhortation:** membimbing individu/kelompok dengan empati, meneguhkan, dan memberi arah.
-* **Leadership & Administration:** merancang ekosistem (orang–proses–alat) dengan target berdampak dan terukur.
-
-**Indikator Bukti:** silabus & rubrik (II-2100/EL2007), naskah pengajaran, bimbingan riset, modul/website kelas, program jemaat.
-
----
-
-## 2) H — Heart (Minat, Nilai, Kepedulian)
-
-* Pendidikan yang **mencipta nilai** (CPMK↔rubrik↔artefak nyata).
-* **GRACE**: kualitas hidup lansia/keluarga melalui sistem dukung cerdas & komunitas saling-melayani.
-* **Gereja & Komunitas**: penguatan iman, kesalingan, dan pelayanan kasih.
-* **Kreativitas naratif**: kisah/novel/lirik sebagai sarana edukasi & pengharapan.
-* **Rekayasa cerdas & AI** untuk kemaslahatan.
-
-**Masalah yang ingin dipecahkan:** kesenjangan antara pengetahuan–karakter–aksi; pembelajaran kurang bermakna; layanan komunitas belum terukur dampaknya.
-
----
+## 2) H — Heart (Minat Profesional & Gairah Intelektual)
+* **Data Science & Machine Learning:** Ketertarikan mendalam pada proses mengekstrak makna dari data, baik melalui analisis statistik maupun pemodelan prediktif.
+* **Visualisasi & Data Storytelling:** Gairah untuk mengubah angka mentah menjadi cerita visual yang mudah dipahami dan dapat ditindaklanjuti oleh non-teknisi.
+* **Pemecahan Masalah Pragmatis:** Antusiasme dalam menggunakan data untuk menjawab pertanyaan spesifik atau memecahkan tantangan bisnis/sistem yang nyata.
+* **Analisis dalam Konteks STI:** Minat khusus dalam menerapkan data science untuk mengoptimalkan sistem informasi, memahami proses bisnis, atau menganalisis perilaku pengguna (user behavior).
 
 ## 3) A — Abilities (Kemampuan Andal)
+* **Analisis Data Kuantitatif:** Mampu melakukan data wrangling, analisis statistik deskriptif, dan pemodelan prediktif dasar.
+* **Pemrograman Data & Database:** Terampil menggunakan Python dan SQL untuk mengambil, memanipulasi, dan menganalisis data.
+* **Visualisasi Data:** Mampu membuat dasbor dan visualisasi yang efektif menggunakan tools seperti Tableau, Looker Studio, atau Matplotlib/Seaborn.
+* **Analisis Sistem (Dasar):** Mampu memetakan alur proses (konteks STI) yang membantu memberikan konteks pada analisis data.
+* **Riset & Pembelajaran Mandiri:** Sangat terampil dalam mempelajari library, algoritma, atau tools data science baru secara mandiri (misal: lewat Kaggle atau kursus online).
 
-* **Perancangan sistem** (PSKVE/TISE), *value co‑creation*, finansial rekayasa, desain instrumen penilaian.
-* **Kurikulum & pedagogi**: CPMK↔rubrik↔tugas↔bukti; otomasi alur kerja (Python/Quarto/GitHub).
-* **Riset & penulisan ilmiah**; **karya kreatif** (prosa, lirik, ceramah/khotbah).
-* **Teknis**: Python, R, Prolog (ontologi), Modelica, Quarto/LaTeX, Obsidian, GitHub, Graphviz.
-* **Komunikasi & kepemimpinan**: orasi publik, fasilitasi sarasehan, negosiasi kolaborasi.
-
----
-
-## 4) P — Personality (Gaya Kerja & Kolaborasi)
-
-* **Strategis‑sistemik** (melihat gambaran besar, memetakan bagian-bagian).
-* **Reflektif & nilai‑driven** (standar etis & mutu).
-* **Kolaboratif** (membangun jejaring, memberi ruang tumbuh).
-* **Tenang‑tangguh** (fokus hasil jangka panjang).
-* **Pembelajar & pembuat alat** (suka membuat template, rubrik, pipeline).
-
----
+## 4) P — Personality (Gaya Kerja Profesional)
+* **Metodis & Terstruktur:** Bekerja dengan alur kerja yang jelas (CRISP-DM), mulai dari pemahaman masalah, penyiapan data, pemodelan, hingga evaluasi.
+* **Analitis & Detail:** Sangat teliti dalam proses data cleaning dan validasi, sadar bahwa kesalahan kecil pada data bisa berakibat fatal pada kesimpulan.
+* **Mandiri & Proaktif:** Tidak menunggu data "bersih" diberikan; aktif mencari data, membersihkannya, dan mengambil inisiatif untuk melakukan eksplorasi.
+* **Reflektif:** Cenderung mengambil waktu untuk memikirkan "apa arti" dari hasil analisis, tidak hanya melaporkan angkanya.
 
 ## 5) E — Experiences (Pengalaman Pembentuk)
+* **Proyek Akademis STI:** Melatih kemampuan dasar analisis proses, basis data, dan arsitektur sistem (misal: mata kuliah Literasi Data dan AI).
+* **Pengalaman "Benturan":** Momen ketika mengerjakan proyek akademis STI dan menyadari bahwa passion terbesarnya adalah pada analisis data-nya, bukan pada perancangan sistemnya.
+* **Pembelajaran Mandiri Data Science:** Proses proaktif belajar Python, SQL, dan Machine Learning di luar kurikulum wajib STI (misal: lewat kursus daring, Kaggle), yang membangun disiplin dan portofolio.
 
-* **Akademik & Riset:** merancang mata kuliah, SLR AI & transformasi digital, proyek GRACE & Smart Engineering.
-* **Pelayanan & Organisasi:** Elder GKI, fasilitator sarasehan, penggalangan dukungan jemaat, pembinaan rohani.
-* **Kreasi Konten:** penulisan novel/khotbah/lirik; produksi materi ajar multi‑format.
-* **Infrastruktur Pengetahuan:** Obsidian–GitHub–Quarto, rubrik otomatis, bank soal.
+## 6) Piagam Diri (Self-Charter)
+<dl>
+    <dt>Misi Profesional:</dt>
+    <dd>Menjadi jembatan antara data teknis dan kebutuhan bisnis/sistem, dengan menerjemahkan data mentah menjadi wawasan strategis menggunakan analisis data yang logis, metodis, dan berintegritas.</dd>
+    <dt>Nilai Inti:</dt>
+    <dd>Logika, Integritas (Data), Akurasi, Keingintahuan, Pertumbuhan.</dd>
+    <dt>Peran Ideal:</dt>
+    <dd>Data Scientist, Data Analyst, Business Intelligence Analyst, Systems Analyst (Data-focused).</dd>
+    <dt>Kompas Keputusan:</dt>
+    <dd>(1) Apakah ini didukung oleh data? (2) Apakah analisisnya akurat dan logis? (3) Apakah ini memecahkan masalah nyata bagi sistem/pengguna? (4) Apakah saya bisa belajar hal baru dari proses ini?</dd>
+    <dt>Janji Profesional:</dt>
+    <dd>Untuk selalu memulai dengan pertanyaan "apa masalahnya", memvalidasi data sebelum menganalisis, dan menyajikan wawasan dengan jujur dan jelas.</dd>
+</dl>
 
-**Pelajaran Inti:** integrasi iman–ilmu–nilai; sistem yang baik melipatgandakan orang baik; narasi menggerakkan aksi.
+## 7) Narasi Diri (versi 90 detik)
+> "Saya Faizal Ali, biasa dipanggil Faiz, seorang mahasiswa Sistem dan Teknologi Informasi (STI). Di STI, saya belajar pentingnya merancang sistem yang efisien. Namun, saya menemukan 'benturan'—passion terbesar saya ternyata ada pada data di dalam sistem itu.
+>
+> Kekuatan saya ada pada pemikiran analitis dan metodis. Saya menikmati proses mengurai data mentah, membersihkannya, dan menemukan pola tersembunyi. Pengalaman saya di proyek akademis STI dan pembelajaran mandiri data science mengajari saya satu hal: data adalah cara terbaik untuk memahami sistem.
+>
+> Kini, misi saya adalah menggabungkan kedua dunia itu: menggunakan data science untuk menjawab 'mengapa' sebuah sistem bekerja, dan 'bagaimana' kita bisa membuatnya lebih baik."
 
----
+## 8) Rencana Aksi 90 Hari (SMART)
+_(Sebagai mahasiswa, aksi saya fokus pada pengembangan portofolio data)_
 
-## 6) Piagam Diri (Self‑Charter)
-
-**Misi Hidup:** merancang dan menggerakkan ekosistem pembelajaran & pelayanan yang memerdekakan, bermakna, dan berkeadilan.
-**Nilai Inti:** kasih, integritas, kebijaksanaan, keberanian, mutu, keberpihakan pada yang lemah.
-**Peran Inti:** Perancang sistem nilai‑pembelajaran; Pembimbing & pengajar; Pemimpin pelayanan komunitas.
-**Kompas Keputusan:** (1) Dampak pada manusia; (2) Keselarasan nilai; (3) Keberlanjutan; (4) Kemampuan tim mengelola; (5) Bukti terukur.
-**Janji Pelayanan:** hadir dengan empati, mendengar, memberi arah praktis, membangun alat agar orang lain bertumbuh.
-**Batasan:** menolak proyek yang mengabaikan martabat manusia/etika; menjaga ritme kerja‑istirahat‑keluarga.
-
----
-
-## 7) Narasi 90 Detik (Elevator Pitch)
-
-“Saya seorang profesor dan elder yang merancang ekosistem belajar dan pelayanan berbasis nilai. Karunia saya mengajar, membimbing, dan memimpin dengan pendekatan sistem: mengubah konsep besar menjadi peta, rubrik, dan alat yang membuat orang bertumbuh. Hati saya pada pendidikan bermakna, kesejahteraan lansia dan keluarga, serta penguatan jemaat. Dengan pengalaman lintas riset, kurikulum, dan pelayanan, saya menghubungkan ilmu, iman, dan aksi. Target saya sederhana: menghadirkan karya dan komunitas yang saling menguatkan—di kelas, di gereja, dan di masyarakat—agar lebih banyak orang hidup berkualitas, berpengharapan, dan siap melayani.”
-
----
-
-## 8) Service‑Fit Map (Tempat Saya Paling Berdampak)
-
-* **Kampus:** perancangan kurikulum & rubrik; mentorship riset; otomasi pipeline belajar; kuliah & orasi.
-* **Jemaat:** pembinaan rohani & khotbah; fasilitasi sarasehan; program lansia/keluarga (GRACE).
-* **Riset‑Inovasi:** desain platform nilai‑ciptakan (PSKVE); publikasi; konsorsium kolaborasi.
-* **Kreasi Naratif:** kisah/lirik sebagai media edukasi & penguatan batin.
-
----
-
-## 9) Evidences (Artefak & Tautan)
-
-> Ganti tanda [ ] dengan tautan/berkas Anda.
-
-* [ ] Silabus & rubrik II‑2100 / EL2007
-* [ ] Modul/website kelas & bank soal
-* [ ] Khotbah/renungan & materi sarasehan
-* [ ] Publikasi/SLR & proposal riset (GRACE, dsb.)
-* [ ] Novel/lirik & materi kreatif
-* [ ] Pipeline otomasi (Quarto/GitHub/Obsidian)
-
----
-
-## 10) Rencana Aksi 90 Hari (SMART)
-
-1. **Rampungkan halaman UTS (KIPP/All‑About‑Me) end‑to‑end.**
-   *Outcome:* semua tugas berisi bukti + rubrik; *Due:* T‑14 hari.
-2. **Mentor 3 tim mahasiswa menyusun artefak bernilai.**
-   *Outcome:* 3 proyek dengan metrik dampak; *Due:* T‑45 hari.
-3. **Pilot GRACE micro‑service di jemaat.**
-   *Outcome:* 1 layanan kecil terukur (mis. pendampingan lansia); *Due:* T‑90 hari.
-4. **Publikasi ringkas (working paper) integrasi iman–ilmu–nilai.**
-   *Outcome:* 1 naskah pra‑cetak; *Due:* T‑75 hari.
-
----
-
-## 11) SHAPE ↔ CPMK (Interpersonal & Public Communication)
-
-* **Self‑awareness & refleksi (CPMK‑S):** dituangkan pada Piagam Diri & Narasi 90 detik.
-* **Empati & komunikasi etis (CPMK‑E):** Shepherding/Exhortation → khotbah, mentoring, review berempati.
-* **Storytelling & presentasi (CPMK‑P):** Teaching + kreasi naratif → kuliah, cerita, lirik.
-* **Kolaborasi & kepemimpinan (CPMK‑K):** Leadership/Administration → proyek riset/komunitas terukur.
-
----
-
-## 12) Self‑Assessment Rubrik UTS‑4 (isi skormu)
-
-| Kriteria                | Deskripsi                      | Skor (1–5) | Bukti |
-| ----------------------- | ------------------------------ | ---------: | ----- |
-| Kelengkapan SHAPE       | S‑H‑A‑P‑E jelas & terisi       |            |       |
-| Koherensi Piagam Diri   | misi‑nilai‑peran konsisten     |            |       |
-| Narasi 90 detik         | ringkas, kuat, mengundang aksi |            |       |
-| Evidence & Aksi 90 hari | tautan bukti & rencana SMART   |            |       |
-
-**Total (maks 20):** [ ]
-**Tingkat:** ☐ A (≥85%) ☐ B (70–84%) ☐ C (60–69%) ☐ D (50–59%) ☐ E (<50%)
-
----
-
-## 13) Versi Ultra‑Ringkas (≤140 kata)
-
-“Saya profesor & elder dengan karunia mengajar, membimbing, dan memimpin secara sistemik. Hati saya pada pendidikan bernilai, kesejahteraan lansia/keluarga (GRACE), dan penguatan jemaat. Kemampuan saya merancang kurikulum, rubrik, dan alat otomasi belajar; menulis ilmiah & kreatif; serta menggerakkan kolaborasi. Pengalaman saya di kampus, gereja, riset, dan kreasi konten mengajarkan integrasi iman–ilmu–aksi. Misi saya menghadirkan ekosistem yang memerdekakan: di kelas melalui pembelajaran bermakna; di jemaat melalui pelayanan kasih yang terukur; dan di masyarakat melalui inovasi yang adil. Target 90 hari: menuntaskan artefak UTS, mementori 3 tim mahasiswa, memulai layanan mikro GRACE, dan menerbitkan naskah ringkas.”
-
-
-## Piagam Diri — Armein Z. R. Langi
-
-**Pernyataan Misi**
-Saya adalah insinyur-pendidik dan penulis yang menyalakan sukacita belajar, menumbuhkan empati, dan merancang sistem cerdas yang memuliakan Tuhan serta meningkatkan kualitas hidup keluarga, kampus, dan komunitas. (Struktur mengikuti kerangka *My SHAPE*—Piagam Diri 1-halaman. )
-
-**S — Signature Strengths (inti kekuatan khas)**
-Humor, Spiritualitas, Kreativitas, Suka Belajar, Keingintahuan, Pandangan (wisdom/perspective), Bersyukur, Keadilan, Kecerdasan Sosial, Kejujuran, Kepemimpinan. (Sumber: VIA Character Strengths Profile, 13 Okt 2025. )
-
-**H — Heart (nilai & panggilan)**
-Empati sebagai kecerdasan tertinggi; kebaikan lebih utama daripada sekadar pintar; pencarian “The True Reality”; sukacita hidup yang mengasihi; keluarga sebagai ekosistem kasih. (Disimpulkan dari tulisan-tulisan Anda di blog: *Empati: Kecerdasan Tertinggi*; *On Being Nice*; *The Truth, The True Reality*; tagline blog; catatan keluarga. ([Armein Z. R. Langi in the City of Eden][1]))
-
-**A — Aptitudes & Acquired Skills (bakat & keterampilan kunci)**
-Perancangan & penelitian sistem/komputasi (speech compression, FPGA), rekayasa & kurikulum, kepemimpinan akademik, penulisan & penceritaan, fasilitasi pembelajaran, sistem & organisasi. (Contoh teknis: riset speech compression & desain kontrol prosesor pada awal karier. ([Armein Z. R. Langi in the City of Eden][2]))
-
-**P — Personality (gaya kerja yang menonjol)**
-Reflektif-analitis, empatik-inklusif, visioner, pembelajar antusias, kolaboratif; berpihak pada keadilan & integritas. (Disintesis dari pola kekuatan VIA dan tema tulisan Anda. )
-
-**E — Experiences (jejak pembentuk identitas)**
-
-* **Ketangguhan pribadi** — “The Child Who Learned to Walk at the Disneyland”: ketekunan, berjalan dalam dingin, terus melangkah menuju tujuan. ([Armein Z. R. Langi in the City of Eden][3])
-* **Lompatan kompetensi awal** — perjalanan riset: software speech compression jadi dalam 3 bulan; desain chip kontrol di Xilinx FPGA; menulis paper. ([Armein Z. R. Langi in the City of Eden][2])
-* **Keluarga & komunitas** — keluarga besar sebagai sumber nilai, pelayanan, dan sukacita. ([Armein Z. R. Langi in the City of Eden][4])
-* **Standar keunggulan** — sensibilitas benchmarking sains & pendidikan (refleksi tentang Caltech). ([Armein Z. R. Langi in the City of Eden][5])
-
-**Janji Praktis (Operating Principles)**
-
-1. *People first with empathy* • 2) *Truth-seeking with humility* • 3) *Design for value & justice* • 4) *Teach what I practice, practice what I teach* • 5) *Joyful learning, faithful living*. (Kerangka dan cara merangkum diadaptasi dari *My SHAPE Toolkit*. )
-
----
-
-## Narasi Diri (versi 90 detik)
-
-Saya Armein—insinyur, pendidik, dan penulis—yang percaya bahwa pengetahuan hanya bermakna bila melahirkan kasih dan keadilan. Kekuatan saya adalah **spiritualitas yang membumi, kreativitas rekayasa, dan kegembiraan belajar tanpa henti**, yang saya pakai untuk menyalakan semangat orang lain. 
-
-Perjalanan saya ditempa oleh pengalaman yang mengajarkan **ketekunan**—mulai dari “berjalan dalam dingin” hingga tuntas menyelesaikan riset komputasi dan merancang sistem sejak awal karier. Keluarga dan komunitas menjadi ekosistem kasih tempat saya belajar bahwa **kebaikan lebih tinggi nilainya daripada sekadar pintar** dan **empati adalah kecerdasan tertinggi**. ([Armein Z. R. Langi in the City of Eden][3])
-
-Ke depan, saya ingin terus **mendesain lingkungan belajar dan sistem cerdas** yang memuliakan Tuhan dan membawa berkat nyata—membentuk insan pembelajar yang jujur, adil, dan penuh syukur—seraya menjaga sukacita: *joy of loving and exciting life*. ([Armein Z. R. Langi in the City of Eden][3])
-
----
-
-## Narasi Diri (versi panjang, 3–5 paragraf)
-
-**Kini.** Saya mengabdikan diri sebagai insinyur-pendidik yang merancang pengalaman belajar dan sistem cerdas agar manusia bertumbuh utuh: cakap teknis, peka nurani, dan gembira belajar. Kekuatan saya—spiritualitas, kreativitas, suka belajar, keingintahuan, perspektif, keadilan, dan kepemimpinan—mengarahkan cara saya memimpin, mengajar, dan menulis. 
-
-**Dulu—titik balik.** Saya belajar bahwa langkah kecil yang konsisten mengalahkan rintangan besar: berjalan sendirian dalam dingin—secara harfiah dan metaforis—membentuk ketahanan batin. Di laboratorium, saya menuntaskan perangkat lunak **speech compression** dalam waktu singkat dan merancang **control unit** berbasis FPGA, lalu menulis paper pertama—momen yang mengajarkan disiplin, standar mutu, dan keberanian intelektual. ([Armein Z. R. Langi in the City of Eden][3])
-
-**Nilai yang saya pegang.** Saya memilih **kebaikan** di atas sekadar **kepintaran**, menempatkan **empati** sebagai kecerdasan tertinggi, dan mengejar **kebenaran sebagai realitas yang sesungguhnya**. Keluarga besar meneguhkan panggilan itu—rumah sebagai laboratorium kasih dan keadilan. ([Armein Z. R. Langi in the City of Eden][6])
-
-**Ke depan.** Dengan kerangka **My SHAPE**, saya terus menyelaraskan kekuatan, nilai, keterampilan, gaya kerja, dan pengalaman untuk merancang program, riset, dan karya tulis yang berdampak—agar teknologi menjadi pelayan kemanusiaan, dan setiap ruang belajar menjadi *City of Eden*: tempat sukacita, kasih, dan keunggulan bertemu. 
-
-
-
-[1]: https://azrl.wordpress.com/2010/04/06/empati-kecerdasan-tertinggi/?utm_source=chatgpt.com "Empati: Kecerdasan Tertinggi | Armein Z. R. Langi in the City of Eden"
-[2]: https://azrl.wordpress.com/2008/05/25/the-journey-4/?utm_source=chatgpt.com "The Journey (4) - Armein Z. R. Langi in the City of Eden"
-[3]: https://azrl.wordpress.com/?utm_source=chatgpt.com "Armein Z. R. Langi in the City of Eden | Joy of loving and ..."
-[4]: https://azrl.wordpress.com/2008/12/01/family/?utm_source=chatgpt.com "Family | Armein Z. R. Langi in the City of Eden"
-[5]: https://azrl.wordpress.com/2008/07/29/caltech/?utm_source=chatgpt.com "Caltech | Armein Z. R. Langi in the City of Eden"
-[6]: https://azrl.wordpress.com/2010/01/09/on-being-nice/?utm_source=chatgpt.com "On Being Nice | Armein Z. R. Langi in the City of Eden"
+1.  **Selesaikan 1 proyek portofolio end-to-end.**\
+    *Outcome:* 1 repositori GitHub berisi analisis data (dari scraping/cleaning hingga visualisasi/model) pada dataset baru.\
+    *Due:* T-90 hari.
+2.  **Pelajari 1 tools visualisasi data secara mendalam.**\
+    *Outcome:* Menerbitkan 2 dasbor baru di Tableau Public untuk mengeksplorasi fitur-fitur yang lebih advanced.\
+    *Due:* T-60 hari.
+3.  **Identifikasi 1 topik Tugas Akhir (TA) yang menggabungkan STI & Data Science.**\
+    *Outcome:* 1 proposal singkat (1 halaman) berisi rumusan masalah TA dan telah dikonsultasikan dengan 1 calon dosen pembimbing.\
+    *Due:* T-75 hari.
