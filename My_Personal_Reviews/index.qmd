@@ -79,6 +79,8 @@ format:
 
 ## 5.0.1 1 — All About Me
 
+Berikut link Peer Assessment [Google Sheets berikut](https://docs.google.com/spreadsheets/d/16u6LQQzeI7odd5ikKwaKV-fqOmJmwD7Q/edit?usp=sharing&ouid=108543053307544988835&rtpof=true&sd=true).
+
 | Kriteria      | Nilai | Catatan Singkat                                                               |
 | :------------ | :---: | :---------------------------------------------------------------------------- |
 | Orisinalitas  |   5   | Ide dan narasi sangat personal, mencerminkan identitas unik penulis.          |
