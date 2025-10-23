@@ -1,6 +1,6 @@
 ## UAS-5 My Professional Reviews
 ---
-title: "My Personal Reviews"
+title: "My Professional Reviews"
 author: "Faizal Ali"
 format:
   html:

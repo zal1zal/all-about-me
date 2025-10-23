@@ -1,85 +1,150 @@
 ## UTS-5 My Personal Reviews
-Berikut cara saya melakukan review: mengguan chatGPT, saya mengattach [file promt ChatGPT](skor_uts.pdf), disertai perintah :"self assess uts-1 sanpai uts-5 dari URL 'https://ii-2100.github.io/all-about-me/'"  
+---
+title: "My Personal Reviews"
+author: "Faizal Ali"
+format:
+  html:
+    grid:
+      body-width: 850px
+    css: |
+      /* General Styling */
+      body {
+        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+        line-height: 1.7;
+        background-color: #f8f9fa;
+        color: #343a40;
+      }
 
-ChatGPT melakukan self-assessment UTS-1 s.d. UTS-5 langsung dari laman yang Anda berikan dan menilai memakai rubrik tugas UTS (skala 1–5 per kriteria). Rekap skor siap diunduh sebagai CSV: [Download CSV ringkasan](sandbox:/mnt/data/UTS_self_assessment.csv).
+      /* Headings for Structure */
+      h1 {
+        color: #004085;
+        text-align: center;
+        border-bottom: 2px solid #b8daff;
+        padding-bottom: 15px;
+        margin-bottom: 30px;
+      }
+      h2 {
+        color: #0056b3;
+        border-bottom: 1px solid #dee2e6;
+        padding-bottom: 10px;
+        margin-top: 45px;
+        margin-bottom: 20px;
+      }
 
-# Hasil Self-Assessment UTS (URL: ii-2100.github.io/all-about-me)
-
-## Identifikasi
-
-* Nama & NIM penulis: **Armein Z. R. Langi – 131902360** (tertera di halaman depan portofolio). ([II 2100][1])
-* Penilai: **Self-assessment (Armein Z. R. Langi)**
-* Catatan cakupan: halaman beranda memuat “About Me”; navigasi ke “My Songs for You”, “My Stories for You”, “My Shapes”, dan “My Personal Reviews” tersedia. ([II 2100][1])
-
-## Tinjauan Umum
-
-* **UTS-1 (All About Me)** hadir di beranda (“Selamat Berjumpa / About Me”). Isi memperkenalkan identitas dan latar personal secara padat. ([II 2100][1])
-* **UTS-2 (My Songs for You)** memuat judul karya dan tautan audio, namun lirik/isi tidak ditampilkan di halaman (file audio tidak bisa saya akses dari sini), sehingga penilaian konten terbatas pada kelengkapan presentasi. ([II 2100][2])
-* **UTS-3 (My Stories for You)** berisi tautan ke beberapa cerita; konten naratif kuat, terutama pada kisah keluarga “Gaun Pengantin Gladys” serta kisah inspiratif lainnya. ([II 2100][3])
-* **UTS-4 (My SHAPE)** saat ini halaman kosong/tanpa isi, hanya navigasi. ([II 2100][4])
-* **UTS-5 (My Personal Reviews)** berisi metode/tautan panduan review, namun belum ada contoh **review personal** yang lengkap terhadap sebuah pesan/teks. ([II 2100][5])
-
+      /* Table Styling */
+      table {
+        width: 100%;
+        border-collapse: collapse;
+        margin-top: 20px;
+        font-size: 0.95em;
+      }
+      th, td {
+        border: 1px solid #dee2e6;
+        padding: 12px;
+        text-align: left;
+        vertical-align: top;
+      }
+      th {
+        background-color: #e9ecef;
+        font-weight: 600;
+      }
+      tr:nth-child(even) {
+        background-color: #f8f9fa;
+      }
+      td:nth-of-type(2) {
+        text-align: center;
+      }
+      
+      /* Blockquote and Commentary */
+      blockquote {
+        border-left: 4px solid #0056b3;
+        padding: 15px 20px;
+        margin: 25px 0;
+        font-style: italic;
+        color: #495057;
+        background-color: #f1f3f5;
+        border-radius: 5px;
+      }
+      .komentar {
+        margin-top: 15px;
+        padding: 10px;
+        background-color: #f1f3f5;
+        border-left: 3px solid #b8daff;
+        border-radius: 4px;
+      }
+      strong {
+        color: #004085;
+      }
 ---
 
-## Tinjauan Spesifik + Skor (1–5)
+## 5.0.1 1 — All About Me
 
-### UTS-1 — All About Me (di beranda)
+| Kriteria      | Nilai | Catatan Singkat                                                               |
+| :------------ | :---: | :---------------------------------------------------------------------------- |
+| Orisinalitas  |   5   | Ide dan narasi sangat personal, mencerminkan identitas unik penulis.          |
+| Keterlibatan  |   4   | Gaya tulisan menarik, namun bisa lebih diperkuat untuk membangun koneksi emosional yang lebih dalam. |
+| Humor         |   3   | Fokus pada nada reflektif dan serius; humor bukan elemen utama dalam tulisan ini. |
+| Wawasan       |   5   | Menunjukkan kesadaran diri yang tinggi dan koneksi yang jelas antara nilai pribadi dengan tujuan. |
 
-**Skor per kriteria:** Orisinalitas **3**, Keterlibatan **3**, Humor **1**, Wawasan/Insight **3** → **Total 10/20 (50%)**.
-**Alasan singkat:** Perkenalan diri faktual dan jelas, namun gaya masih informatif ketimbang naratif (minim humor dan moment “hook”). ([II 2100][1])
-**Saran perbaikan:** Buka dengan anekdot pribadi (1–2 paragraf) yang “mengikat” (mis. titik balik karier/keluarga), tambahkan satu momen humor ringan, lalu tutup dengan refleksi singkat tentang nilai/visi diri agar aspek insight naik.
+<div class="komentar">
+<strong>Rata-rata : 4.25 (A)</strong><br>
+<strong>Komentar:</strong> Fondasi yang sangat kuat dengan narasi personal yang otentik. Refleksi diri yang ditampilkan menunjukkan pemikiran yang matang.
+</div>
 
-### UTS-2 — My Songs for You
+## 5.0.2 2 — My Song for You
 
-**Skor per kriteria:** Orisinalitas **2**, Keterlibatan **2**, Humor **1**, Inspirasi **2** → **Total 7/20 (35%)**.
-**Alasan singkat:** Halaman menampilkan judul lagu “River in my Mind”, “Heaven on Earth”, namun tanpa lirik/cerita di balik lagu sehingga sulit menilai aspek pesan, humor, dan inspirasi. ([II 2100][2])
-**Saran perbaikan:** Tambahkan lirik lengkap, 1 paragraf cerita proses kreatif, dan 2–3 kalimat “pesan untukmu” agar inspirasi terbaca; sertakan player/tautan yang dapat diputar langsung + fallback transkrip.
+| Kriteria      | Nilai | Catatan Singkat                                                               |
+| :------------ | :---: | :---------------------------------------------------------------------------- |
+| Orisinalitas  |   4   | Pilihan lagu unik dan interpretasi personal, namun narasi bisa lebih diperkaya dengan konteks spesifik. |
+| Keterlibatan  |   4   | Mampu membawa pembaca ke dalam suasana reflektif lagu-lagu yang dipilih.      |
+| Humor         |   3   | Nada tulisan cenderung serius dan introspektif, sesuai dengan tema lagu.       |
+| Inspirasi     |   5   | Pesan penutup tentang “menjadi pusat, bukan korban” sangat kuat dan inspiratif. |
 
-### UTS-3 — My Stories for You
+<div class="komentar">
+<strong>Rata-rata : 4.00 (A)</strong><br>
+<strong>Komentar:</strong> Berhasil menunjukkan kedalaman emosional dan kemampuan untuk menarik makna personal dari sebuah karya seni.
+</div>
 
-**Skor per kriteria:** Orisinalitas **5**, Keterlibatan **5**, Pengembangan Narasi **4**, Inspirasi **5** → **Total 19/20 (95%)**.
-**Alasan singkat:** Cerita “Gaun Pengantin Gladys” dkk sangat personal, emosional, dan inspiratif; ritme bertutur hidup serta detail situasional kuat (konten ramu unsur penebusan/keluarga/iman). ([II 2100][3])
-**Saran perbaikan:** Tambah “lead” 2–3 kalimat yang merangkum pesan kunci tiap cerita; akhiri dengan ajakan/refleksi 1–2 kalimat agar resonansi ke pembaca makin jelas.
+## 5.0.3 3 — My Stories for You
 
-### UTS-4 — My SHAPE
+| Kriteria            | Nilai | Catatan Singkat                                                                   |
+| :------------------ | :---: | :-------------------------------------------------------------------------------- |
+| Orisinalitas        |   5   | Gaya penceritaan sangat otentik dan unik, menciptakan pengalaman membaca yang sangat personal. |
+| Keterlibatan        |   5   | Narasi “show, don’t tell” dieksekusi sempurna, sangat berhasil menarik pembaca ke dalam cerita. |
+| Pengembangan Narasi |   5   | Struktur cerita dan refleksi sangat solid; alur dan tempo penceritaan terkontrol dengan sangat baik. |
+| Inspirasi           |   5   | Pesan tentang agensi diri dan tanggung jawab personal tersampaikan secara mendalam dan berkesan. |
 
-**Skor per kriteria:** Orisinalitas **1**, Keterlibatan **1**, Pengembangan **1**, Inspirasi **1** → **Total 4/20 (20%)**.
-**Alasan singkat:** Konten belum tersedia. ([II 2100][4])
-**Saran perbaikan (prioritas):**
+<div class="komentar">
+<strong>Rata-rata : 5.00 (A+)</strong><br>
+<strong>Komentar:</strong> Sebuah karya tulis yang luar biasa. Matang secara naratif, emosional, dan filosofis. Titik puncak dari seri ini.
+</div>
 
-1. Tampilkan rekap SHAPE (Spiritual gifts, Heart, Abilities, Personality, Experiences) dalam 1 tabel ringkas + 3–5 butir bukti;
-2. Narasikan 2 pengalaman kunci (±150 kata/each) yang menunjukkan “signature strengths”;
-3. Tutup dengan 3 rencana aksi konkret (who/what/when).
+## 5.0.4 4 — My SHAPE
 
-### UTS-5 — My Personal Reviews
+| Kriteria       | Nilai | Catatan Singkat                                                                     |
+| :------------- | :---: | :---------------------------------------------------------------------------------- |
+| Orisinalitas   |   5   | Analisis terasa lahir dari refleksi nyata dan pengalaman pribadi, bukan sekadar mengisi template. |
+| Keterlibatan   |   5   | Struktur yang logis dan benang merah yang kuat membuat dokumen ini sangat menarik dan mudah diikuti. |
+| Keautentikan   |   4   | Sangat otentik, namun bisa diperkuat lagi dengan contoh/bukti konkret dari pengalaman yang disebutkan. |
+| Inspirasi      |   5   | Bagian “Piagam Diri” dan “Kompas Keputusan” sangat inspiratif dan dapat ditindaklanjuti (actionable). |
 
-**Skor per kriteria:** Pemahaman Konsep **2**, Analisis Kritis **1**, Argumentasi (Logos) **1**, Etos & Empati **2**, Rekomendasi **1** → **Total 7/25 (28%)**.
-**Alasan singkat:** Halaman berisi metode cara menilai, tetapi **belum ada** contoh **review personal** yang lengkap terhadap sebuah pesan/teks sehingga aspek analisis-argumentasi tak terbaca. ([II 2100][5])
-**Saran perbaikan:** Pilih 1 karya personal (mis. UTS-1/2/3), tulis review 400–600 kata: ringkas pesan, nilai dengan rubrik, berikan 2–3 bukti kutipan, evaluasi etos/empati, lalu tutup dengan rekomendasi perbaikan spesifik.
+<div class="komentar">
+<strong>Rata-rata : 4.75 (A)</strong><br>
+<strong>Komentar:</strong> Analisis diri yang sangat komprehensif dan strategis. Berhasil mengubah refleksi menjadi sebuah panduan kerja yang jelas.
+</div>
 
----
+## 5.0.5 Rangkuman Nilai Akhir
 
-## Rekap Skor (ringkas)
+| UTS                       | Rata-rata | Tingkat |
+| :------------------------ | :-------: | :-----: |
+| UTS-1 All About Me        |   4.25    |    A    |
+| UTS-2 My Song for You     |   4.00    |    A    |
+| UTS-3 My Stories for You  |   5.00    |   A+    |
+| UTS-4 My SHAPE            |   4.75    |    A    |
+| **Rata-rata Keseluruhan** | **4.50 / 5.00 (A)** |         |
 
-* **UTS-1:** 10/20 → **50%**
-* **UTS-2:** 7/20 → **35%**
-* **UTS-3:** 19/20 → **95%**
-* **UTS-4:** 4/20 → **20%**
-* **UTS-5:** 7/25 → **28%**
+## 5.0.6 Kesimpulan
 
-CSV lengkap sudah saya siapkan untuk dokumentasi dan olah lanjut: [Download CSV ringkasan](sandbox:/mnt/data/UTS_self_assessment.csv).
+Seluruh karya pada repositori **All About Me** menunjukkan **perkembangan kepribadian dan refleksi diri yang konsisten, cerdas, dan mendalam.** Setiap UTS memperlihatkan kematangan berpikir serta keaslian ekspresi yang khas. Tulisan-tulisan Anda tidak hanya memenuhi rubrik akademik, tetapi juga berhasil menjadi potret perjalanan intelektual dan personal yang otentik.
 
-## Langkah Perbaikan Cepat (prioritas 1 minggu)
-
-1. **Lengkapi UTS-4 (My SHAPE)** sesuai saran di atas;
-2. **Tambahkan lirik + sinopsis** untuk tiap lagu di UTS-2 agar bisa dinilai isi/inspirasinya;
-3. **Tulis 1 review personal penuh** (UTS-5) memakai rubrik (pilih salah satu karya Anda sendiri sebagai objek);
-4. Revisi UTS-1 dengan pembuka anekdot + refleksi nilai diri.
-
-Jika Anda mau, saya bisa bantu merapikan UTS-4 (tabel SHAPE + narasi) dan membuat kerangka cepat untuk **review** di UTS-5 dari salah satu karya Anda.
-
-[1]: https://ii-2100.github.io/all-about-me/ "Armein Z. R. Langi"
-[2]: https://ii-2100.github.io/all-about-me/My_Song_for_You/index.html "2  My Songs for You – Armein Z. R. Langi"
-[3]: https://ii-2100.github.io/all-about-me/My_Stories_for_You/index.html "3  My Stories for You – Armein Z. R. Langi"
-[4]: https://ii-2100.github.io/all-about-me/My_Shapes/index.html "4  My Shapes – Armein Z. R. Langi"
-[5]: https://ii-2100.github.io/all-about-me/My_Personal_Reviews/index.html "5  My Personal Reviews – Armein Z. R. Langi"
+> “Menjadi reflektif bukan berarti berhenti, melainkan melangkah dengan lebih sadar akan arah dan makna.”
