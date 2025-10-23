@@ -11,7 +11,7 @@ format:
       }
 ---
 
-{{< youtube jYa1eI1hpDE >}}
+{{< video https://youtu.be/jYa1eI1hpDE?si=O4fN5cUTFRQMLKID >}}
 
 ## Lirik
 [Verse 1]
