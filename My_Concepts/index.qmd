@@ -1,65 +1,61 @@
 # UAS-1 My Concepts
 ---
-title: "Konsep Etika Bekerja: Profesionalisme & Integritas"
+title: "Analisis Strategis: Kemiskinan Global & Tantangan Kemanusiaan"
 author: "Nama Anda"
 date: "2025-12-23"
 format: 
   html:
     toc: true
-    toc-depth: 3
-    theme: cosmo
+    theme: journal
     number-sections: true
 ---
 
-## Pendahuluan
+## Definisi Kemiskinan Global
 
-Etika bekerja bukan sekadar mengikuti aturan perusahaan, melainkan manifestasi dari nilai-nilai pribadi yang diterapkan dalam konteks profesional. Konsep ini dirancang untuk menciptakan lingkungan kerja yang produktif, harmonis, dan berkelanjutan.
+Kemiskinan global bukan sekadar masalah kekurangan materi, melainkan kondisi kompleks di mana individu kehilangan akses terhadap kebutuhan dasar yang esensial.
 
----
+### Dimensi Kebutuhan Dasar
+Individu yang terjebak dalam kemiskinan seringkali kekurangan akses terhadap:
+* **Nutrisi:** Makanan bergizi dan air bersih.
+* **Infrastruktur:** Perumahan yang layak dan sanitasi.
+* **Layanan Sosial:** Pendidikan berkualitas dan akses kesehatan.
 
-## Pilar Utama Etika Bekerja
-
-### 1. Integritas dan Kejujuran
-Integritas adalah fondasi dari segala tindakan. Ini berarti melakukan hal yang benar bahkan ketika tidak ada orang yang melihat.
-* **Transparansi:** Berterus terang mengenai progres pekerjaan dan kendala yang dihadapi.
-* **Akuntabilitas:** Berani bertanggung jawab atas kesalahan dan fokus pada solusi.
-
-### 2. Profesionalisme
-Sikap yang menunjukkan kompetensi dan rasa hormat terhadap peran yang diemban.
-* **Disiplin Waktu:** Menghargai waktu sendiri dan waktu orang lain dengan hadir tepat waktu dan memenuhi tenggat (*deadline*).
-* **Kerapian & Sikap:** Menjaga standar komunikasi yang sopan dan penampilan yang sesuai dengan konteks budaya kantor.
-
-### 3. Kolaborasi dan Rasa Hormat
-Kesuksesan organisasi bergantung pada kerja tim yang sehat.
-* **Empati:** Berusaha memahami sudut pandang rekan kerja.
-* **Inklusivitas:** Menghargai keberagaman latar belakang dan pendapat tanpa diskriminasi.
+### Ambang Batas Kemiskinan Ekstrem
+Berdasarkan standar internasional, seseorang dikategorikan hidup dalam **kemiskinan ekstrem** jika bertahan hidup dengan pendapatan di bawah **USD 2,15 per hari**. Kondisi ini menciptakan hambatan besar untuk mencapai standar hidup minimum.
 
 ---
 
-## Kode Etik Perilaku (Code of Conduct)
+## Analisis Populasi Terdampak
 
-| Aspek | Perilaku yang Diharapkan | Perilaku yang Dihindari |
-|-------|--------------------------|-------------------------|
-| **Komunikasi** | Terbuka, konstruktif, dan santun. | Gosip, merendahkan, dan pasif-agresif. |
-| **Kinerja** | Memberikan hasil maksimal (Excellence). | Bekerja asal-asalan atau sekadar menggugurkan kewajiban. |
-| **Konflik** | Diselesaikan secara privat dan profesional. | Memperbesar masalah di depan umum atau media sosial. |
+Berdasarkan data terbaru, potret kemiskinan dunia saat ini menunjukkan angka yang mengkhawatirkan:
 
----
-
-## Prinsip Pengambilan Keputusan
-
-Dalam menghadapi dilema etika, saya menggunakan kerangka berpikir berikut:
-
-> **"Apakah tindakan ini memberikan manfaat bagi organisasi, menghormati hak orang lain, dan dapat saya pertanggungjawabkan secara moral di kemudian hari?"**
-
-1.  **Analisis Situasi:** Identifikasi fakta yang ada.
-2.  **Pertimbangkan Dampak:** Siapa saja yang akan terpengaruh?
-3.  **Konsultasi:** Bertukar pikiran dengan mentor atau atasan jika ragu.
+1.  **Skala Global:** Sekitar **700 juta orang** (8,5% dari populasi dunia) hidup dalam kemiskinan ekstrem. Ini berarti hampir 1 dari setiap 20 orang di bumi berada dalam kondisi miskin absolut.
+2.  **Distribusi Geografis:** Konsentrasi terbesar penduduk miskin ekstrem berada di negara-negara berpenghasilan rendah, terutama di kawasan **Sub-Sahara Afrika**.
+3.  **Kelompok Rentan:** Anak-anak tetap menjadi kelompok yang paling terdampak dan berisiko kehilangan masa depan akibat keterbatasan akses ekonomi.
 
 ---
 
-## Kesimpulan
+## Dampak Sistemik: Lingkaran Setan Kemiskinan
 
-Etika bekerja adalah komitmen berkelanjutan untuk bertumbuh bersama. Dengan menjunjung tinggi integritas dan profesionalisme, kita tidak hanya membangun karier yang sukses, tetapi juga reputasi yang bermartabat.
+Kemiskinan tidak berdiri sendiri, melainkan menciptakan rantai masalah yang saling berkaitan:
 
-> *“Kualitas kerja Anda menentukan masa depan Anda, tetapi etika kerja Anda menentukan karakter Anda.”*
+* **Kesehatan & Fisik:** Malnutrisi kronis menyebabkan gangguan pertumbuhan dan daya tahan tubuh yang lemah.
+* **Pendidikan:** Rendahnya tingkat sekolah membatasi keterampilan kerja di masa depan.
+* **Ekonomi:** Terbatasnya kesempatan ekonomi memastikan bahwa generasi berikutnya akan menghadapi tantangan yang sama.
+
+---
+
+## Sumber Data & Agenda Global
+
+Dokumen ini disusun berdasarkan referensi dari:
+* **World Bank Global Poverty Report 2024.**
+* **Laporan Perserikatan Bangsa-Bangsa (PBB)** terkait kemiskinan.
+
+### Status Pencapaian SDGs
+Meskipun tren kemiskinan sempat menurun, pandemi COVID-19 dan krisis ekonomi global telah menghambat kemajuan tersebut. Oleh karena itu, penanggulangan kemiskinan tetap menjadi prioritas utama dalam **Sustainable Development Goal (SDG) 1 PBB**: *Mengakhiri kemiskinan dalam segala bentuk di mana pun.*
+
+---
+
+## Refleksi Konsep
+
+Memahami data kemiskinan global adalah langkah awal dalam membangun empati profesional. Sebagai bagian dari komunitas global, kesadaran akan isu ini menuntut kita untuk memiliki tanggung jawab sosial, baik melalui efisiensi kerja yang berdampak luas maupun melalui inisiatif filantropi perusahaan.
