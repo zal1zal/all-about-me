@@ -1,6 +1,6 @@
 ## UAS-5 My Professional Reviews
 ---
-title: "Laporan Penilaian Akhir (UAS): Etika & Solusi Kemiskinan Global"
+title: "My Professional Reviews"
 author: "Faizal Ali"
 date: "2025-12-23"
 format: 
