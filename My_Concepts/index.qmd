@@ -1,7 +1,7 @@
 # UAS-1 My Concepts
 ---
 title: "Analisis Strategis: Kemiskinan Global & Tantangan Kemanusiaan"
-author: "Nama Anda"
+author: "Faizal Ali"
 date: "2025-12-23"
 format: 
   html:
