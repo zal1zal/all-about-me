@@ -6,6 +6,8 @@
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
+<meta name="author" content="Faizal Ali">
+<meta name="dcterms.date" content="2025-12-23">
 
 <title>9&nbsp; UAS-4 My Knowledge – Faizal Ali</title>
 <style>
@@ -42,7 +44,7 @@ ul.task-list li input[type="checkbox"] {
 <link href="../site_libs/quarto-html/quarto-syntax-highlighting-7b89279ff1a6dce999919e0e67d4d9ec.css" rel="stylesheet" id="quarto-text-highlighting-styles">
 <script src="../site_libs/bootstrap/bootstrap.min.js"></script>
 <link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap-70a47bd5681a7291082a5b9f83d58762.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
+<link href="../site_libs/bootstrap/bootstrap-932c790966643b903267d7c35bffad4f.min.css" rel="stylesheet" append-hash="true" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "location": "sidebar",
   "copy-button": false,
@@ -71,6 +73,35 @@ ul.task-list li input[type="checkbox"] {
   }
 }</script>
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN" && texText && texText.data) {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
 
 </head>
 
@@ -83,7 +114,7 @@ ul.task-list li input[type="checkbox"] {
       <button type="button" class="quarto-btn-toggle btn" data-bs-toggle="collapse" role="button" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
         <i class="bi bi-layout-text-sidebar-reverse"></i>
       </button>
-        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../My_Knowledge/index.html"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">UAS-4 My Knowledge</span></a></li></ol></nav>
+        <nav class="quarto-page-breadcrumbs" aria-label="breadcrumb"><ol class="breadcrumb"><li class="breadcrumb-item"><a href="../My_Knowledge/index.html"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">My Knowledge: Teori &amp; Dimensi Kemiskinan</span></a></li></ol></nav>
         <a class="flex-grow-1" role="navigation" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item" aria-controls="quarto-sidebar" aria-expanded="false" aria-label="Toggle sidebar navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">      
         </a>
       <button type="button" class="btn quarto-search-button" aria-label="Search" onclick="window.quartoOpenSearch();">
@@ -149,31 +180,31 @@ ul.task-list li input[type="checkbox"] {
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../My_Concepts/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">UAS-1 My Concepts</span></span></a>
+ <span class="menu-text"><span class="chapter-number">6</span>&nbsp; <span class="chapter-title">Analisis Strategis: Kemiskinan Global &amp; Tantangan Kemanusiaan</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../My_Opinions/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">UAS-3 My Opinions</span></span></a>
+ <span class="menu-text"><span class="chapter-number">7</span>&nbsp; <span class="chapter-title">My Opinion: Membedah Akar dan Solusi Kemiskinan</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../My_Innovations/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">UAS-3 My Innovations</span></span></a>
+ <span class="menu-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">My Innovation: The ‘Bridge-Link’ Ecosystem</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../My_Knowledge/index.html" class="sidebar-item-text sidebar-link active">
- <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">UAS-4 My Knowledge</span></span></a>
+ <span class="menu-text"><span class="chapter-number">9</span>&nbsp; <span class="chapter-title">My Knowledge: Teori &amp; Dimensi Kemiskinan</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
   <div class="sidebar-item-container"> 
   <a href="../My_Professional_Reviews/index.html" class="sidebar-item-text sidebar-link">
- <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">My Professional Reviews</span></span></a>
+ <span class="menu-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Laporan Penilaian Akhir (UAS): Etika &amp; Solusi Kemiskinan Global</span></span></a>
   </div>
 </li>
         <li class="sidebar-item">
@@ -193,8 +224,21 @@ ul.task-list li input[type="checkbox"] {
 </nav>
 <div id="quarto-sidebar-glass" class="quarto-sidebar-collapse-item" data-bs-toggle="collapse" data-bs-target=".quarto-sidebar-collapse-item"></div>
 <!-- margin-sidebar -->
-    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar zindex-bottom">
-        
+    <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">Table of contents</h2>
+   
+  <ul>
+  <li><a href="#kerangka-teoretis-memahami-kemiskinan" id="toc-kerangka-teoretis-memahami-kemiskinan" class="nav-link active" data-scroll-target="#kerangka-teoretis-memahami-kemiskinan"><span class="header-section-number">9.1</span> Kerangka Teoretis: Memahami Kemiskinan</a>
+  <ul class="collapse">
+  <li><a href="#poverty-trap-jebakan-kemiskinan" id="toc-poverty-trap-jebakan-kemiskinan" class="nav-link" data-scroll-target="#poverty-trap-jebakan-kemiskinan"><span class="header-section-number">9.1.1</span> 1. Poverty Trap (Jebakan Kemiskinan)</a></li>
+  <li><a href="#global-poverty-lines-gpl" id="toc-global-poverty-lines-gpl" class="nav-link" data-scroll-target="#global-poverty-lines-gpl"><span class="header-section-number">9.1.2</span> 2. Global Poverty Lines (GPL)</a></li>
+  </ul></li>
+  <li><a href="#dimensi-multidimensional-poverty-index-mpi" id="toc-dimensi-multidimensional-poverty-index-mpi" class="nav-link" data-scroll-target="#dimensi-multidimensional-poverty-index-mpi"><span class="header-section-number">9.2</span> Dimensi Multidimensional Poverty Index (MPI)</a></li>
+  <li><a href="#analisis-faktor-penyebab-drivers-of-poverty" id="toc-analisis-faktor-penyebab-drivers-of-poverty" class="nav-link" data-scroll-target="#analisis-faktor-penyebab-drivers-of-poverty"><span class="header-section-number">9.3</span> Analisis Faktor Penyebab (Drivers of Poverty)</a></li>
+  <li><a href="#referensi-kunci" id="toc-referensi-kunci" class="nav-link" data-scroll-target="#referensi-kunci"><span class="header-section-number">9.4</span> Referensi Kunci</a></li>
+  </ul>
+</nav>
     </div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
@@ -208,7 +252,19 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="quarto-title-meta">
 
+    <div>
+    <div class="quarto-title-meta-heading">Author</div>
+    <div class="quarto-title-meta-contents">
+             <p>Faizal Ali </p>
+          </div>
+  </div>
     
+    <div>
+    <div class="quarto-title-meta-heading">Published</div>
+    <div class="quarto-title-meta-contents">
+      <p class="date">December 23, 2025</p>
+    </div>
+  </div>
   
     
   </div>
@@ -218,9 +274,85 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<p>Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain 1) saya tulis <a href="Rekomendasi Presentasi Efektif(Contoh Makalah).pdf">makalah sebagai bahan utama</a> 2) lalu saya buat <a href="Contoh Transkrip Presentasi.pdf">transkrip ucapan lisan</a> 3) kemudian saya kembangkan <a href="Rekomendasi Presentasi (Contoh Slides).pdf">slide pendukung trnsskrip</a> 4) lalu saya memproduksivideo audio visual </p><div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/ZbghfMvnPZc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div> <div class="quarto-video ratio ratio-16x9"><iframe data-external="1" src="https://www.youtube.com/embed/ZbghfMvnPZc" title="" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe></div><p></p>
+<section id="kerangka-teoretis-memahami-kemiskinan" class="level2" data-number="9.1">
+<h2 data-number="9.1" class="anchored" data-anchor-id="kerangka-teoretis-memahami-kemiskinan"><span class="header-section-number">9.1</span> Kerangka Teoretis: Memahami Kemiskinan</h2>
+<p>Pengetahuan saya mengenai kemiskinan global didasarkan pada pemahaman bahwa kemiskinan bukan sekadar fenomena moneter, melainkan fenomena <strong>multidimensi</strong>.</p>
+<section id="poverty-trap-jebakan-kemiskinan" class="level3" data-number="9.1.1">
+<h3 data-number="9.1.1" class="anchored" data-anchor-id="poverty-trap-jebakan-kemiskinan"><span class="header-section-number">9.1.1</span> 1. Poverty Trap (Jebakan Kemiskinan)</h3>
+<p>Secara teknis, saya memahami konsep <em>Poverty Trap</em> di mana individu atau negara kekurangan modal (fisik, manusia, atau finansial) untuk menghasilkan surplus yang cukup guna berinvestasi di masa depan. * <strong>Persamaan Dasar:</strong> Jika tabungan <span class="math inline">\(S &lt; I\)</span> (Investasi yang dibutuhkan untuk mengganti depresiasi modal), maka pertumbuhan ekonomi akan stagnan atau negatif.</p>
+<p>[Image of the poverty trap cycle diagram]</p>
+</section>
+<section id="global-poverty-lines-gpl" class="level3" data-number="9.1.2">
+<h3 data-number="9.1.2" class="anchored" data-anchor-id="global-poverty-lines-gpl"><span class="header-section-number">9.1.2</span> 2. Global Poverty Lines (GPL)</h3>
+<p>Berdasarkan pengetahuan dari World Bank, terdapat tiga ambang batas utama yang disesuaikan dengan Purchasing Power Parity (PPP): * <strong>USD 2,15:</strong> Garis kemiskinan ekstrem (digunakan untuk negara berpenghasilan rendah). * <strong>USD 3,65:</strong> Digunakan untuk negara berpenghasilan menengah ke bawah (Lower-middle income). * <strong>USD 6,85:</strong> Digunakan untuk negara berpenghasilan menengah ke atas (Upper-middle income).</p>
+<hr>
+</section>
+</section>
+<section id="dimensi-multidimensional-poverty-index-mpi" class="level2" data-number="9.2">
+<h2 data-number="9.2" class="anchored" data-anchor-id="dimensi-multidimensional-poverty-index-mpi"><span class="header-section-number">9.2</span> Dimensi Multidimensional Poverty Index (MPI)</h2>
+<p>Saya mengadopsi kerangka kerja <em>Oxford Poverty and Human Development Initiative</em> (OPHI) yang mengukur kemiskinan melalui tiga dimensi utama dengan sepuluh indikator:</p>
+<table class="caption-top table">
+<colgroup>
+<col style="width: 34%">
+<col style="width: 65%">
+</colgroup>
+<thead>
+<tr class="header">
+<th>Dimensi</th>
+<th>Indikator Utama</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><strong>Kesehatan</strong></td>
+<td>Nutrisi, Angka Kematian Anak</td>
+</tr>
+<tr class="even">
+<td><strong>Pendidikan</strong></td>
+<td>Lama Sekolah, Kehadiran di Sekolah</td>
+</tr>
+<tr class="odd">
+<td><strong>Standar Hidup</strong></td>
+<td>Bahan Bakar Memasak, Sanitasi, Air Minum, Listrik, Perumahan, Aset</td>
+</tr>
+</tbody>
+</table>
+<hr>
+</section>
+<section id="analisis-faktor-penyebab-drivers-of-poverty" class="level2" data-number="9.3">
+<h2 data-number="9.3" class="anchored" data-anchor-id="analisis-faktor-penyebab-drivers-of-poverty"><span class="header-section-number">9.3</span> Analisis Faktor Penyebab (Drivers of Poverty)</h2>
+<p>Berdasarkan literatur ekonomi pembangunan yang saya pelajari, terdapat empat faktor utama pendorong kemiskinan saat ini:</p>
+<ol type="1">
+<li><strong>Konflik dan Instabilitas:</strong> Lebih dari 50% penduduk miskin ekstrem tinggal di wilayah yang terdampak konflik atau rapuh (<em>fragile states</em>).</li>
+<li><strong>Perubahan Iklim:</strong> Petani kecil adalah kelompok paling rentan terhadap gagal panen akibat pola cuaca yang tidak menentu.</li>
+<li><strong>Kesenjangan Akses Digital:</strong> <em>Digital divide</em> memperlebar jarak antara mereka yang memiliki akses informasi dan mereka yang terisolasi.</li>
+<li><strong>Inflasi Pangan:</strong> Kenaikan harga komoditas global secara langsung memukul daya beli rumah tangga yang menghabiskan &gt;60% pendapatannya untuk makanan.</li>
+</ol>
+<hr>
+<div class="callout callout-style-default callout-note callout-titled">
+<div class="callout-header d-flex align-content-center">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Note</span>Sintesis Pengetahuan
+</div>
+</div>
+<div class="callout-body-container callout-body">
+<p>Pengetahuan ini memberi saya landasan untuk tidak hanya melihat kemiskinan sebagai “nasib”, tetapi sebagai masalah struktural yang dapat diukur dan diselesaikan melalui kebijakan berbasis data (<em>evidence-based policy</em>).</p>
+</div>
+</div>
+</section>
+<section id="referensi-kunci" class="level2" data-number="9.4">
+<h2 data-number="9.4" class="anchored" data-anchor-id="referensi-kunci"><span class="header-section-number">9.4</span> Referensi Kunci</h2>
+<ul>
+<li><em>World Development Report 2024</em> - World Bank.</li>
+<li><em>Human Development Report</em> - UNDP.</li>
+<li><em>Poor Economics</em> - Abhijit Banerjee &amp; Esther Duflo (Nobel Prize in Economics).</li>
+</ul>
 
 
+</section>
 
 </main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
@@ -625,13 +757,13 @@ ul.task-list li input[type="checkbox"] {
   </script>
 <nav class="page-navigation">
   <div class="nav-page nav-page-previous">
-      <a href="../My_Innovations/index.html" class="pagination-link" aria-label="UAS-3 My Innovations">
-        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">UAS-3 My Innovations</span></span>
+      <a href="../My_Innovations/index.html" class="pagination-link" aria-label="My Innovation: The 'Bridge-Link' Ecosystem">
+        <i class="bi bi-arrow-left-short"></i> <span class="nav-page-text"><span class="chapter-number">8</span>&nbsp; <span class="chapter-title">My Innovation: The ‘Bridge-Link’ Ecosystem</span></span>
       </a>          
   </div>
   <div class="nav-page nav-page-next">
-      <a href="../My_Professional_Reviews/index.html" class="pagination-link" aria-label="My Professional Reviews">
-        <span class="nav-page-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">My Professional Reviews</span></span> <i class="bi bi-arrow-right-short"></i>
+      <a href="../My_Professional_Reviews/index.html" class="pagination-link" aria-label="Laporan Penilaian Akhir (UAS): Etika &amp; Solusi Kemiskinan Global">
+        <span class="nav-page-text"><span class="chapter-number">10</span>&nbsp; <span class="chapter-title">Laporan Penilaian Akhir (UAS): Etika &amp; Solusi Kemiskinan Global</span></span> <i class="bi bi-arrow-right-short"></i>
       </a>
   </div>
 </nav>
