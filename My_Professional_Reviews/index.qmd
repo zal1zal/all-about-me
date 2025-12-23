@@ -1,150 +1,83 @@
 ## UAS-5 My Professional Reviews
 ---
-title: "My Professional Reviews"
+title: "Laporan Penilaian Akhir (UAS): Etika & Solusi Kemiskinan Global"
 author: "Faizal Ali"
-format:
+date: "2025-12-23"
+format: 
   html:
-    grid:
-      body-width: 850px
-    css: |
-      /* General Styling */
-      body {
-        font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
-        line-height: 1.7;
-        background-color: #f8f9fa;
-        color: #343a40;
-      }
-
-      /* Headings for Structure */
-      h1 {
-        color: #004085;
-        text-align: center;
-        border-bottom: 2px solid #b8daff;
-        padding-bottom: 15px;
-        margin-bottom: 30px;
-      }
-      h2 {
-        color: #0056b3;
-        border-bottom: 1px solid #dee2e6;
-        padding-bottom: 10px;
-        margin-top: 45px;
-        margin-bottom: 20px;
-      }
-
-      /* Table Styling */
-      table {
-        width: 100%;
-        border-collapse: collapse;
-        margin-top: 20px;
-        font-size: 0.95em;
-      }
-      th, td {
-        border: 1px solid #dee2e6;
-        padding: 12px;
-        text-align: left;
-        vertical-align: top;
-      }
-      th {
-        background-color: #e9ecef;
-        font-weight: 600;
-      }
-      tr:nth-child(even) {
-        background-color: #f8f9fa;
-      }
-      td:nth-of-type(2) {
-        text-align: center;
-      }
-      
-      /* Blockquote and Commentary */
-      blockquote {
-        border-left: 4px solid #0056b3;
-        padding: 15px 20px;
-        margin: 25px 0;
-        font-style: italic;
-        color: #495057;
-        background-color: #f1f3f5;
-        border-radius: 5px;
-      }
-      .komentar {
-        margin-top: 15px;
-        padding: 10px;
-        background-color: #f1f3f5;
-        border-left: 3px solid #b8daff;
-        border-radius: 4px;
-      }
-      strong {
-        color: #004085;
-      }
+    theme: cosmo
+    toc: false
 ---
 
-## 5.0.1 1 — All About Me
+### 10.0.1 — UAS-1: My Concepts (Etika Bekerja)
+**Judul:** Fondasi Integritas dalam Ekosistem Profesional
 
-| Kriteria      | Nilai | Catatan Singkat                                                               |
-| :------------ | :---: | :---------------------------------------------------------------------------- |
-| Orisinalitas  |   5   | Ide dan narasi sangat personal, mencerminkan identitas unik penulis.          |
-| Keterlibatan  |   4   | Gaya tulisan menarik, namun bisa lebih diperkuat untuk membangun koneksi emosional yang lebih dalam. |
-| Humor         |   3   | Fokus pada nada reflektif dan serius; humor bukan elemen utama dalam tulisan ini. |
-| Wawasan       |   5   | Menunjukkan kesadaran diri yang tinggi dan koneksi yang jelas antara nilai pribadi dengan tujuan. |
+| Kriteria | Nilai | Catatan Singkat |
+|:---|:---:|:---|
+| **Clarity** | 5 | Konsep etika dijelaskan secara sistematis melalui pilar yang kokoh, mengubah norma abstrak menjadi panduan perilaku yang konkret. |
+| **Logic** | 5 | Hubungan antara integritas pribadi dan produktivitas organisasi digambarkan dengan alur penalaran yang sangat logis. |
+| **Validity** | 5 | Mengintegrasikan prinsip profesionalisme modern yang relevan dengan dinamika kerja global saat ini. |
+| **Usefulness** | 5 | Sangat aplikatif sebagai kompas moral bagi individu dalam menghadapi dilema etika di dunia kerja. |
 
-<div class="komentar">
-<strong>Rata-rata : 4.25 (A)</strong><br>
-<strong>Komentar:</strong> Fondasi yang sangat kuat dengan narasi personal yang otentik. Refleksi diri yang ditampilkan menunjukkan pemikiran yang matang.
-</div>
+**Rata-rata: 5.00 (A+)** **Komentar:** Sebuah manifesto kerja yang luar biasa. Berhasil menunjukkan bahwa etika bukanlah beban, melainkan aset strategis dalam karier.
 
-## 5.0.2 2 — My Song for You
+---
 
-| Kriteria      | Nilai | Catatan Singkat                                                               |
-| :------------ | :---: | :---------------------------------------------------------------------------- |
-| Orisinalitas  |   4   | Pilihan lagu unik dan interpretasi personal, namun narasi bisa lebih diperkaya dengan konteks spesifik. |
-| Keterlibatan  |   4   | Mampu membawa pembaca ke dalam suasana reflektif lagu-lagu yang dipilih.      |
-| Humor         |   3   | Nada tulisan cenderung serius dan introspektif, sesuai dengan tema lagu.       |
-| Inspirasi     |   5   | Pesan penutup tentang “menjadi pusat, bukan korban” sangat kuat dan inspiratif. |
+### 10.0.2 — UAS-2: My Knowledge (Teori Kemiskinan)
+**Judul:** Anatomi Multidimensi Kemiskinan Ekstrem
 
-<div class="komentar">
-<strong>Rata-rata : 4.00 (A)</strong><br>
-<strong>Komentar:</strong> Berhasil menunjukkan kedalaman emosional dan kemampuan untuk menarik makna personal dari sebuah karya seni.
-</div>
+| Kriteria | Nilai | Catatan Singkat |
+|:---|:---:|:---|
+| **Clarity** | 5 | Penjelasan mengenai ambang batas USD 2,15 dan instrumen MPI sangat jernih dan terstruktur. |
+| **Logic** | 5 | Analisis mengenai "Poverty Trap" menunjukkan pemahaman mendalam tentang mekanisme ekonomi yang menghambat pertumbuhan. |
+| **Validity** | 5 | Data berbasis World Bank Global Poverty Report 2024 memberikan akurasi data yang sangat tinggi dan mutakhir. |
+| **Usefulness** | 4 | Memberikan basis data yang kuat, namun bisa diperdalam dengan studi kasus spesifik di luar wilayah Sub-Sahara. |
 
-## 5.0.3 3 — My Stories for You
 
-| Kriteria            | Nilai | Catatan Singkat                                                                   |
-| :------------------ | :---: | :-------------------------------------------------------------------------------- |
-| Orisinalitas        |   5   | Gaya penceritaan sangat otentik dan unik, menciptakan pengalaman membaca yang sangat personal. |
-| Keterlibatan        |   5   | Narasi “show, don’t tell” dieksekusi sempurna, sangat berhasil menarik pembaca ke dalam cerita. |
-| Pengembangan Narasi |   5   | Struktur cerita dan refleksi sangat solid; alur dan tempo penceritaan terkontrol dengan sangat baik. |
-| Inspirasi           |   5   | Pesan tentang agensi diri dan tanggung jawab personal tersampaikan secara mendalam dan berkesan. |
 
-<div class="komentar">
-<strong>Rata-rata : 5.00 (A+)</strong><br>
-<strong>Komentar:</strong> Sebuah karya tulis yang luar biasa. Matang secara naratif, emosional, dan filosofis. Titik puncak dari seri ini.
-</div>
+[Image of the poverty trap cycle diagram]
 
-## 5.0.4 4 — My SHAPE
 
-| Kriteria       | Nilai | Catatan Singkat                                                                     |
-| :------------- | :---: | :---------------------------------------------------------------------------------- |
-| Orisinalitas   |   5   | Analisis terasa lahir dari refleksi nyata dan pengalaman pribadi, bukan sekadar mengisi template. |
-| Keterlibatan   |   5   | Struktur yang logis dan benang merah yang kuat membuat dokumen ini sangat menarik dan mudah diikuti. |
-| Keautentikan   |   4   | Sangat otentik, namun bisa diperkuat lagi dengan contoh/bukti konkret dari pengalaman yang disebutkan. |
-| Inspirasi      |   5   | Bagian “Piagam Diri” dan “Kompas Keputusan” sangat inspiratif dan dapat ditindaklanjuti (actionable). |
+**Rata-rata: 4.75 (A)** **Komentar:** Penguasaan materi yang sangat solid. Anda mampu membedah data statistik menjadi narasi krisis kemanusiaan yang komprehensif.
 
-<div class="komentar">
-<strong>Rata-rata : 4.75 (A)</strong><br>
-<strong>Komentar:</strong> Analisis diri yang sangat komprehensif dan strategis. Berhasil mengubah refleksi menjadi sebuah panduan kerja yang jelas.
-</div>
+---
 
-## 5.0.5 Rangkuman Nilai Akhir
+### 10.0.3 — UAS-3: My Opinions (Perspektif Kritis)
+**Judul:** Redefinisi Keadilan: Melampaui Angka Pendapatan
 
-| UTS                       | Rata-rata | Tingkat |
-| :------------------------ | :-------: | :-----: |
-| UTS-1 All About Me        |   4.25    |    A    |
-| UTS-2 My Song for You     |   4.00    |    A    |
-| UTS-3 My Stories for You  |   5.00    |   A+    |
-| UTS-4 My SHAPE            |   4.75    |    A    |
-| **Rata-rata Keseluruhan** | **4.50 / 5.00 (A)** |         |
+| Kriteria | Nilai | Catatan Singkat |
+|:---|:---:|:---|
+| **Compelling** | 5 | Argumen mengenai "Kemiskinan Akses" sangat memikat dan menantang cara pandang konvensional terhadap kemiskinan. |
+| **Informative** | 5 | Memberikan perspektif baru mengenai paradoks bantuan internasional dan pentingnya kedaulatan ekonomi. |
+| **Persuasive** | 5 | Retorika yang digunakan sangat kuat dalam meyakinkan pembaca bahwa kemiskinan adalah kegagalan sistemik, bukan takdir. |
+| **Engaging** | 5 | Berhasil membangun empati pembaca melalui integrasi nilai etika dengan fakta sosiopolitik. |
 
-## 5.0.6 Kesimpulan
+**Rata-rata: 5.00 (A+)** **Komentar:** Opini yang tajam dan berani. Anda berhasil memposisikan diri sebagai pemikir kritis yang tidak hanya melihat masalah, tetapi juga akar penyebabnya.
 
-Seluruh karya pada repositori **All About Me** menunjukkan **perkembangan kepribadian dan refleksi diri yang konsisten, cerdas, dan mendalam.** Setiap UTS memperlihatkan kematangan berpikir serta keaslian ekspresi yang khas. Tulisan-tulisan Anda tidak hanya memenuhi rubrik akademik, tetapi juga berhasil menjadi potret perjalanan intelektual dan personal yang otentik.
+---
 
-> “Menjadi reflektif bukan berarti berhenti, melainkan melangkah dengan lebih sadar akan arah dan makna.”
+### 10.0.4 — UAS-4: My Innovations (Bridge-Link Ecosystem)
+**Judul:** Tech-Justice: Mengarsiteki Solusi Inklusif
+
+| Kriteria | Nilai | Catatan Singkat |
+|:---|:---:|:---|
+| **Clarity** | 5 | Konsep integrasi Blockchain dan AI dijelaskan dengan bahasa yang mudah dipahami tanpa menghilangkan bobot teknisnya. |
+| **Logic** | 5 | Alur kerja platform dari identitas digital hingga akses pasar modal memiliki koherensi sistem yang sangat baik. |
+| **Validity** | 4 | Inovasi sangat relevan secara teoretis, meski memerlukan prototipe untuk membuktikan skalabilitas di lapangan. |
+| **Usefulness** | 5 | Menawarkan solusi konkret yang "memberi kail", sejalan dengan prinsip keberlanjutan SDG 1. |
+
+**Rata-rata: 4.75 (A)** **Komentar:** Inovasi yang futuristik namun tetap membumi. Solusi "Tech-Justice" Anda menjawab kesenjangan digital dengan cara yang sangat manusiawi.
+
+---
+
+### 10.0.5 — Rangkuman Nilai Akhir
+
+| Bagian UAS | Rata-rata | Tingkat |
+|:---|:---:|:---:|
+| UAS-1: My Concepts | 5.00 | A+ |
+| UAS-2: My Knowledge | 4.75 | A |
+| UAS-3: My Opinions | 5.00 | A+ |
+| UAS-4: My Innovations | 4.75 | A |
+| **Rata-rata Keseluruhan** | **4.875 (Dibulatkan menjadi 4.90)** | **A+** |
+
+**Komentar Penutup:** Rangkaian tugas ini menunjukkan kapasitas intelektual yang istimewa. Anda berhasil menghubungkan **karakter (etika)**, **kecerdasan (knowledge)**, **hati (opinion)**, dan **tangan (innovation)** ke dalam satu narasi besar perjuangan melawan kemiskinan global. Selamat atas pencapaian yang luar biasa ini.
