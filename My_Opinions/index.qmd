@@ -1,6 +1,6 @@
 ## UAS-2 My Opinions
 ---
-title: "My Opinion: Membedah Akar dan Solusi Kemiskinan"
+title: "My Opinion"
 author: "Faizal Ali"
 date: "2025-12-23"
 format: 

@@ -1,6 +1,6 @@
 # UAS-3 My Innovations
 ---
-title: "My Innovation: The 'Bridge-Link' Ecosystem"
+title: "My Innovation"
 author: "Faizal Ali"
 date: "2025-12-23"
 format: 

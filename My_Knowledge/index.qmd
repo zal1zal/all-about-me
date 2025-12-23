@@ -1,6 +1,6 @@
 ## UAS-4 My Knowledge
 ---
-title: "My Knowledge: Teori & Dimensi Kemiskinan"
+title: "My Knowledge"
 author: "Faizal Ali"
 date: "2025-12-23"
 format: 
