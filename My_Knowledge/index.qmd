@@ -1,7 +1,66 @@
 ## UAS-4 My Knowledge
+---
+title: "My Knowledge: Teori & Dimensi Kemiskinan"
+author: "Faizal Ali"
+date: "2025-12-23"
+format: 
+  html:
+    toc: true
+    theme: flatly
+---
 
-Cara saya mengkomunikasikan sebuah pengatahuan sebagai petunjuk bagi orang lain
-1) saya tulis [makalah sebagai bahan utama](Rekomendasi%20Presentasi%20Efektif(Contoh%20Makalah).pdf)
-2) lalu saya buat [transkrip ucapan lisan](Contoh%20Transkrip%20Presentasi.pdf)
-3) kemudian saya kembangkan [slide pendukung trnsskrip](Rekomendasi%20Presentasi%20(Contoh%20Slides).pdf)
-4) lalu saya memproduksivideo audio visual {{< video https://youtu.be/ZbghfMvnPZc>}} {{< video https://youtu.be/ZbghfMvnPZc>}}
+## Kerangka Teoretis: Memahami Kemiskinan
+
+Pengetahuan saya mengenai kemiskinan global didasarkan pada pemahaman bahwa kemiskinan bukan sekadar fenomena moneter, melainkan fenomena **multidimensi**.
+
+### 1. Poverty Trap (Jebakan Kemiskinan)
+Secara teknis, saya memahami konsep *Poverty Trap* di mana individu atau negara kekurangan modal (fisik, manusia, atau finansial) untuk menghasilkan surplus yang cukup guna berinvestasi di masa depan.
+* **Persamaan Dasar:** Jika tabungan $S < I$ (Investasi yang dibutuhkan untuk mengganti depresiasi modal), maka pertumbuhan ekonomi akan stagnan atau negatif.
+
+
+
+[Image of the poverty trap cycle diagram]
+
+
+### 2. Global Poverty Lines (GPL)
+Berdasarkan pengetahuan dari World Bank, terdapat tiga ambang batas utama yang disesuaikan dengan Purchasing Power Parity (PPP):
+* **USD 2,15:** Garis kemiskinan ekstrem (digunakan untuk negara berpenghasilan rendah).
+* **USD 3,65:** Digunakan untuk negara berpenghasilan menengah ke bawah (Lower-middle income).
+* **USD 6,85:** Digunakan untuk negara berpenghasilan menengah ke atas (Upper-middle income).
+
+---
+
+## Dimensi Multidimensional Poverty Index (MPI)
+
+Saya mengadopsi kerangka kerja *Oxford Poverty and Human Development Initiative* (OPHI) yang mengukur kemiskinan melalui tiga dimensi utama dengan sepuluh indikator:
+
+| Dimensi | Indikator Utama |
+|---------|-----------------|
+| **Kesehatan** | Nutrisi, Angka Kematian Anak |
+| **Pendidikan** | Lama Sekolah, Kehadiran di Sekolah |
+| **Standar Hidup** | Bahan Bakar Memasak, Sanitasi, Air Minum, Listrik, Perumahan, Aset |
+
+
+
+---
+
+## Analisis Faktor Penyebab (Drivers of Poverty)
+
+Berdasarkan literatur ekonomi pembangunan yang saya pelajari, terdapat empat faktor utama pendorong kemiskinan saat ini:
+
+1.  **Konflik dan Instabilitas:** Lebih dari 50% penduduk miskin ekstrem tinggal di wilayah yang terdampak konflik atau rapuh (*fragile states*).
+2.  **Perubahan Iklim:** Petani kecil adalah kelompok paling rentan terhadap gagal panen akibat pola cuaca yang tidak menentu.
+3.  **Kesenjangan Akses Digital:** *Digital divide* memperlebar jarak antara mereka yang memiliki akses informasi dan mereka yang terisolasi.
+4.  **Inflasi Pangan:** Kenaikan harga komoditas global secara langsung memukul daya beli rumah tangga yang menghabiskan >60% pendapatannya untuk makanan.
+
+---
+
+::: {.callout-note}
+## Sintesis Pengetahuan
+Pengetahuan ini memberi saya landasan untuk tidak hanya melihat kemiskinan sebagai "nasib", tetapi sebagai masalah struktural yang dapat diukur dan diselesaikan melalui kebijakan berbasis data (*evidence-based policy*).
+:::
+
+## Referensi Kunci
+* *World Development Report 2024* - World Bank.
+* *Human Development Report* - UNDP.
+* *Poor Economics* - Abhijit Banerjee & Esther Duflo (Nobel Prize in Economics).
