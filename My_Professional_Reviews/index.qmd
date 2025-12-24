@@ -9,6 +9,13 @@ format:
     toc: false
 ---
 
+### Peer Assesment
+Berikut link Peer Assessment [Google Sheets berikut](https://docs.google.com/spreadsheets/d/1GjLxkQ1sH5NL1MVFfWG-b6R2xpU1LQRW/edit?usp=sharing&ouid=108543053307544988835&rtpof=true&sd=true).
+Saya menilai :
+18224047	Daniel Benaya Toar Supaath
+18224055	Adrian Akhdan Assyauqi
+18224095	Sirojul Firdaus
+
 ### 10.0.1 — UAS-1: My Concepts (Etika Bekerja)
 **Judul:** Fondasi Integritas dalam Ekosistem Profesional
 
